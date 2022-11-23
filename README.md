@@ -7,9 +7,15 @@ This program is written by:
 # Abiansyah Adzani Gymnastiar 		  : 5025211077
 
 Contribution 
-Fauzan Ahmad Faisal
-#
-Muhammad Fadhlan Ashila Harashta
-#
-Abiansyah Adzani Gymnastiar
-#
+# Fauzan Ahmad Faisal
+#-Editting the report
+#-Help Writting the code
+
+# Muhammad Fadhlan Ashila Harashta
+#-Help Writting the code
+#-Searching for ideas and algorithm
+#-Creating the PDF file
+
+# Abiansyah Adzani Gymnastiar
+#-Help Writting the code
+#-Providing the pc used to write the code
